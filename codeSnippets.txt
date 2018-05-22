@@ -1,0 +1,7 @@
+1.CodeSnippets已经纳入版本管理中.这样可以在不同的工作地点来实时优化代码片段
+2.CodeSnippets 在xcode的目录地址 /Users/stephanie/Library/Developer/Xcode/UserData/CodeSnippets 
+
+           ~/Library/Developer/Xcode/UserData/CodeSnippets  相对路径
+ 需要注意的是: user 由于不同电脑而不同; 
+	    苹果有可能改变CodeSnippets的路径
+ 拖动代码技巧:选中一段代码,然后把鼠标移到选中的代码上,按住左键(大约3-4s),等竖杠变成箭头,就能拖动了.(如果一直不自动变成箭头,就稍微稍微动一下鼠标)
