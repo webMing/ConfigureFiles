@@ -1,4 +1,6 @@
 1.如果一个文件夹想要添加版本管理需要首先git初始化 也就是git init ; 如果使用sourceTree 可以使用添加本厂库；然后再创建远程厂库即可; 
 2.gitignore/Objective-C.gitignore
-  主页: https://github.com/github/gitignore
-  obj.igonre : https://github.com/github/gitignore/blob/master/Objective-C.gitignore
+  主页:  https://github.com/github/gitignore
+  obj-Igonre 文件地址: https://github.com/github/gitignore/blob/master/Objective-C.gitignore
+  学习资料:https://git-scm.com/book/zh/v2
+  注意忽略文件后缀名是:.gitignore 别写错了
