@@ -3,4 +3,5 @@
   主页:  https://github.com/github/gitignore
   obj-Igonre 文件地址: https://github.com/github/gitignore/blob/master/Objective-C.gitignore
   学习资料:https://git-scm.com/book/zh/v2
+  学习资料: https://www.atlassian.com/git/tutorials/saving-changes/gitignore#git-ignore-patterns
   注意忽略文件后缀名是:.gitignore 别写错了
