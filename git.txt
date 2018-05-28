@@ -6,3 +6,5 @@
   学习资料: https://www.atlassian.com/git/tutorials/saving-changes/gitignore#git-ignore-patterns
   学习资料:https://www.atlassian.com/git/tutorials/saving-changes/gitignore
   注意忽略文件后缀名是:.gitignore 别写错了
+
+2.本目录包含一个隐藏的.gitignore 文件,用本目录中的BuildGitIgnore.sh脚本去执行
